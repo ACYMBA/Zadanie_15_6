@@ -1,0 +1,23 @@
+{
+  "name": "zad_15_6",
+  "version": "1.0.0",
+  "description": "examp_zad15_6",
+  "main": "script-compiled.js",
+  "scripts": {
+    "start": "babel script.js --out-file script-compiled.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Albert",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}

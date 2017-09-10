@@ -1,0 +1,23 @@
+
+
+[class*="controls"] {
+  min-height: 300px; }
+
+.controls {
+  background-color: #F22613;
+  margin: 50px;
+  text-align: center;
+   font-size: 40px;
+ }
+
+
+.stopwatch {
+  background-color: black;
+}
+
+.results {
+    background-color: #F22613;
+  margin: 50px;
+  text-align: center;
+   font-size: 40px;
+}
